@@ -1,0 +1,39 @@
+
+body {
+  background-color: orange ;
+}
+
+
+
+
+.font {
+  color: blue;
+}
+
+h1 {
+	font-family: 'Knewave', cursive;
+	color: white;
+}
+
+
+
+img {
+    width: 40%;
+    height: auto;
+}
+
+
+
+#submit {
+	margin-top:10px;
+	float:right;
+}
+
+.uneaten {
+	margin-top:30px;	
+}
+
+#devour {
+	background-color: yellow;
+	color: black;
+}
